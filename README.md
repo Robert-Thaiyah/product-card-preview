@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Robert-Thaiyah/product-card-preview)
-- Live Site URL: [Add live site URL here](https://robert-thaiyah.github.io/product-card-preview/)
+- Solution URL: [Github Repo](https://github.com/Robert-Thaiyah/product-card-preview)
+- Live Site URL: [Live site URL](https://robert-thaiyah.github.io/product-card-preview/)
 
 ## My process
 
@@ -63,8 +63,8 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://github.com/Robert-Thaiyah)
+- Website - [Robert Thaiyah](https://github.com/Robert-Thaiyah)
 
 ## Acknowledgments
 
-- A massive shoutout to - Lucas: [Add solution URL here](https://www.frontendmentor.io/profile/correlucas) for pointing out my mistakes in the previous project.
+- A massive shoutout to [Lucas 👾](https://www.frontendmentor.io/profile/correlucas) for pointing out my mistakes in the previous project.
