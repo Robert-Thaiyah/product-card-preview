@@ -20,7 +20,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 ## Overview
 This is a redo of the original challenge. I had to revisit and redo the entire challenge from scratch to add content previously pointed out. 
 
-- Old Solution URL: [Add solution URL here](https://github.com/Robert-Thaiyah/product-preview-card)
+- Old Solution URL: [Old Github Repo](https://github.com/Robert-Thaiyah/product-preview-card)
 
 ### The challenge
 
